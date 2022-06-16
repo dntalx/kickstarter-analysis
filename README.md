@@ -33,3 +33,7 @@ When considering the best time of the year to start a crowdfunding campaign, Feb
 
 Taking the information we got from the “Outcomes Based on Goals” graph, we see that the best ranges to set a crowdfunding campaign are “Less than $1,000” and “$1000 to $4,999.” 
 On the contrary, the least successful ranges were “$25,000 to $29,999” and “$50,000 or more.” 
+
+Like mentioned on the Challenge section, we need more information about other crowdfundding campaigns that have different goal ranges to best determine what goals are more likely to be successful. 
+
+Another pece of information wecould look at is the timeline from when the crowdfunding camapigns were created and when they ended and see if that has any significant information to determine how long a campaign should run for to get the best results. 
