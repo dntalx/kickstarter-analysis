@@ -1,4 +1,3 @@
-# kickstarter_analysis
 #Kickstarter Analysis 
 ##Overview of Project
 This project was created to compare different crowdfunding campaigns to better inform a person who wants to start their own crowdfunding campaign for a play. To do this, we looked at different crowdfunding projects for various categories ranging from film to music to theater, among others. We also used other important data, such as pledged money, country the crowdfunding took place, and the outcome of each campaign, to know how successful each crowdfunding campaign was and use that information to better understand what conditions are needed in order for a crowdfunding campaign to be more likely to be successful. 
@@ -14,4 +13,4 @@ As we can see, May, June, and July are the best months to create a campaign to i
 ###Analysis of Outcomes Based on Goals
 We wanted to look at the percentage of successful and failed crowdfunding campaigns based on the monetary goal of each campaign to see what goals were more likely to succeed and which ones were more likely to fail. We created 12 ranges starting with campaigns whose goals were less than $1,000 and from there, we incremented each range by $5,000 going all the way up to $50,000 or more as the campaign’s goals. In the graph below, we can see the success and failed range based on the amount of money a campaign set as its goal.
 
-![Alt text](Image URL)
+![Alt text](https://github.com/dntalx/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png))
