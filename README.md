@@ -36,4 +36,4 @@ On the contrary, the least successful ranges were “$25,000 to $29,999” and �
 
 Like mentioned on the Challenge section, we need more information about other crowdfundding campaigns that have different goal ranges to best determine what goals are more likely to be successful. 
 
-Another pece of information wecould look at is the timeline from when the crowdfunding camapigns were created and when they ended and see if that has any significant information to determine how long a campaign should run for to get the best results. 
+Another piece of information we could look at is the timeline from when the crowdfunding campaigns were created and when they ended and see if that has any significant information to determine how long a campaign should run to get the best results.  
